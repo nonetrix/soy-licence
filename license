@@ -1,0 +1,14 @@
+{{ project }}
+Copyright (C) {{ year }}  {{ organization }}
+
+This program is non-free meaning you can not look at the source code,
+or make modifications, also you may not use the software in any form,
+this means you may not execute the program or download the program.
+
+This program is distributed in the hope that it will be useless,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+Nonetrix private License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see https://github.com/nonetrix/soy-licence/licence.txt
